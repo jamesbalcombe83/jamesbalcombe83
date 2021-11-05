@@ -5,6 +5,7 @@
 
 At CC i've been exposed to
 - JS frameworks and libraries such as React & Vue
+- Ruby (on Rails)
 - REST api frameworks & Graphql
 - TDD and BDD
 - Project management conecepts in Agile such as SCRUM and Kanban
