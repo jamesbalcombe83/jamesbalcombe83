@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamesbalcombe83
 - 👀 I’m interested in Javascript and learning full stack development
 - 🌱 I’m currently learning Javascript and full stack development with @codechrysalis
-- 📫 How to reach me on twitter @Teacher_MrB
+- 📫 How to reach me on twitter @CodeWithMrB
 
 At CC i've been exposed to
 - JS frameworks and libraries such as React & Vue
