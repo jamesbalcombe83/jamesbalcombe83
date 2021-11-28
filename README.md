@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesbalcombe83
-- 👀 I’m interested in Javascript and learning full stack development
-- 🌱 I’m currently learning Javascript and full stack development with @codechrysalis
+- 👀 I’m interested in Javascript, React, Ruby on Rails, mongoDB and more
+- 🌱 I’m currently looking for work - backend, frontend, or fullstack
 - 📫 How to reach me on twitter @CodeWithMrB
 
 At CC i've been exposed to
