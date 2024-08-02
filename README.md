@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesbalcombe83
 - 👀 I’m interested in Javascript, Go, React, Ruby on Rails, mongoDB and more
-- 🌱 Currently working @MODE Inc
+- 🌱 Currently working @KrakenFlex
 - 📫 How to reach me on twitter @CodeWithMrB
 
 <!---
